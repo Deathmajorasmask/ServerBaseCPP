@@ -1,0 +1,3 @@
+﻿  ServerBaseCPP.cpp
+C:\Program_Docs\ServerBaseCPP\ServerBaseCPP\ServerBaseCPP\ServerBaseCPP.cpp(68,31): warning C4018: '<=': no coinciden signed/unsigned
+  ServerBaseCPP.vcxproj -> C:\Program_Docs\ServerBaseCPP\ServerBaseCPP\Debug\ServerBaseCPP.exe
